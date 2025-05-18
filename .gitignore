@@ -1,0 +1,33 @@
+# Object files
+*.o
+
+# Libraries
+*.a
+
+# Executables
+*.exe
+
+# Unit_tests files
+*.gcda
+*.gcno
+unit_tests
+
+# Web files
+*.html
+*.css
+
+# Vscode files
+*.vscode
+
+# Python files
+/__pycache__/
+
+#executables
+zappy_server
+zappy_gui
+zappy_ai
+
+#valgrind files
+vgcore*
+
+*__pycache__*
